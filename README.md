@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Eloïck
 - 👀 I’m interested in Javascript; html; css; python
-- 🌱 I’m currently learning HTML; CSS
+- 🌱 I’m currently learning HTML; CSS; PHP;
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by my mail eloick@live.fr
+- 📫 How to reach me by my mail eloick.mickisz@proton.me
 
 <!---
 Eloick-Iforce/Eloick-Iforce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
