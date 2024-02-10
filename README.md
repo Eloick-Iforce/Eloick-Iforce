@@ -15,5 +15,5 @@ I am a motivated and passionate student in multimedia and web development. Curre
 
 # Let's connect 
 
-GitHub: https://github.com/Eloick-Iforce
-Website: https://eloick.fr/
+- GitHub: https://github.com/Eloick-Iforce
+- Website: https://eloick.fr/
