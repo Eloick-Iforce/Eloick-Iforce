@@ -5,7 +5,7 @@ I am a motivated and passionate student in multimedia and web development. Curre
 
 ## 💻 My technical skills:
 
-- Front-end: HTML5, CSS3, JavaScript, React, VueJS
+- Front-end: HTML5, CSS3, JavaScript, React, VueJS, TailwindCSS, NextJs
 - Back-end: PHP, Node.js, Symfony, Laravel
 - Database: MySQL
 - Design: Figma, Adobe Illustrator, Photoshop, InDesign
